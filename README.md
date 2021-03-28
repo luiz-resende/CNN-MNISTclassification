@@ -2,7 +2,7 @@
 
 ### **Authors**: *Resende Silva, Luiz, Furtado e Faria, Matheus, & Kondulukov, Vitaly*
 ### **Date**: *November 2019*
-### **Subject**: *COMP551 Applied Machine Learning - Project 03*
+### **Subject**: *COMP551 Applied Machine Learning*
 
 ## **Overview**
 The current project script aimed to implement a Neural Network, more specifically a Convolutional Neural Network (CNN), for the task of image classification of 60,000 images of the Modified MNIST dataset made available, from which 50,000 images composed the training set (with their respective label) and the 10,000 images composed the held-out test set (whose predictions were later submitted to the kaggle competition).
